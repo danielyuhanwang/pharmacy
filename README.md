@@ -1,6 +1,7 @@
-## pharmacy sales forecasting project
+# pharmacy sales forecasting project
 
 # I built time-series forecasting models in Python (using Prophet and XG Boost), fine-tuned them with grid search cross-validation, to generate insight from a pharmacy sales dataset. I conveyed my findings in a slide deck to present actionable business action to improve sales.
+
 # Description of each file:
 healthcare_product_sales.csv -> dataset of pharmacy sales
 Pharmacy_TimeSeries_Prophet.ipynb -> jupyter notebook containing construction, fine-tuning, and usage of Prophet model
@@ -14,7 +15,7 @@ To run, the following python libraries must be installed: pandas, numpy, matplot
 # Summary of Findings
 Overall, findings indicate relatively healthly growth in all drug categories for the pharmacy. While there are clear seasonal trends for pain relievers, cold remedies, vitamins, and skin care, the seasonal trends for first aid are less clear. However, slight negative trends for cold remedies and skin care signify the need to anticipate seasonal peaks in sales for these categories and change business strategy.
 
-#Acknowledgements
+# Acknowledgements
 This project was inspired by Rob Mulla's videos on time series. His Kaggle notebooks can be found here:
 Prophet: https://www.kaggle.com/code/robikscube/time-series-forecasting-with-prophet-yt
 XGBoost(Part 1): https://www.kaggle.com/code/robikscube/time-series-forecasting-with-machine-learning-yt
