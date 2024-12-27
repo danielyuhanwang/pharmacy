@@ -1,6 +1,6 @@
-# pharmacy sales forecasting project
+# Pharmacy Sales Forecasting Project
 
-# I built time-series forecasting models in Python (using Prophet and XG Boost), fine-tuned them with grid search cross-validation, to generate insight from a pharmacy sales dataset. I conveyed my findings in a slide deck to present actionable business action to improve sales.
+I built time-series forecasting models in Python (using Prophet and XG Boost), fine-tuned them with grid search cross-validation, to generate insight from a pharmacy sales dataset. I conveyed my findings in a slide deck to present actionable business action to improve sales.
 
 # Description of each file:
 healthcare_product_sales.csv -> dataset of pharmacy sales
