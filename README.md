@@ -4,11 +4,17 @@ I built time-series forecasting models in Python (using Prophet and XG Boost), f
 
 # Description of each file:
 healthcare_product_sales.csv -> dataset of pharmacy sales
+
 Pharmacy_TimeSeries_Prophet.ipynb -> jupyter notebook containing construction, fine-tuning, and usage of Prophet model
+
 TimeSeriesClass.py -> python file containing the TimeSeriesProphet and ProphetCV classes, classes that are utilized in Pharmacy_TimeSeries_Prophet.ipynb to streamline model creation, fine-tuning, data analysis, and visualization
+
 Pharmacy_TimeSeries_XGBoost.ipynb -> jupyter notebook containing construction, fine-tuning, and usage of XGBoost
+
 TimeSeriesXGClass.py -> python file containing the XG_TimeSeries and XGBoostCV classes, classes that are utilized in Pharmacy_TimeSeries_XGBoost.ipynb to streamline model creation, fine-tuning, data analysis, and visualization
+
 pharmacy_timeseries_deliverable.pptx -> slide deck containing business insights and actionable recommendations from the models.
+
 # How to run
 To run, the following python libraries must be installed: pandas, numpy, matplotlib, seaborn, xgboost, sklearn, prophet. 
 
